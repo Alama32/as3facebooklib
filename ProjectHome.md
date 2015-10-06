@@ -1,0 +1,1 @@
+The Facebook API provides an ActionScript 3.0 for interacting with the Facebook Platform API.
